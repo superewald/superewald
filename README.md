@@ -1,3 +1,7 @@
+[![gitlab](https://img.shields.io/badge/GitLab:-superewald-orange?style=flat-square)](https://gitlab.com/superewald)
+[![discord](https://img.shields.io/badge/Discord:-superewald-darkblue?style=flat-square)](https://discord.com/users/897390791109013534)
+
+
 Open-source and unix enthusiast, fullstack web developer and security engineer working as freelancer. 
 
 # :footprints: whoami
